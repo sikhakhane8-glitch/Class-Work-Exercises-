@@ -1,3 +1,3 @@
-This is doucment of all SQL Fundamentals Classwork completed 
+This is all doucments of all SQL Fundamentals Classwork completed 
 
 
