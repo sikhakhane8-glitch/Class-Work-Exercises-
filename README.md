@@ -1,2 +1,3 @@
-# Class-Work-Exercises-
-the document includes coding from practice exercise work 
+This is doucment of all SQL Fundamentals Classwork completed 
+
+
